@@ -64,4 +64,3 @@ if __name__ == '__main__':
 #    data = data.decode('utf-8')
 #    print(data)
 #    print(type(data))
-    
