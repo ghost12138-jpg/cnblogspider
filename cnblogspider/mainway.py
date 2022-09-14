@@ -42,4 +42,3 @@ for k,v in urldic.items():
     store_lists_to_a_file(code,filespath)
 t1 = time.time()
 print('获取代码部分耗时 {} 秒'.format(t1-t2))
-
